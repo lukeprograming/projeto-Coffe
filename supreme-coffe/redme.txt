@@ -1,0 +1,10 @@
+-- Me chamo Lucas Gabriel, esse projeto foi isnpirado no site da lebiscuit 
+um site sobre café e doces de venda, ele nao tem muita funcionalidade, tem mais a questao de estilo do css e bem pouco de javaScrip, durante o processo 
+de produção do site acabei usando muito css e quando fui ve so consegui adicionar mais as descrições dos itens em JS, mas espero que o projeto seja interessante
+ao seu ver.
+
+ I M P O R T A N T E !!! 
+
+Na pasta contem 2 outras pastas, a pasta de nome Supreme-Coffe-Final é p projeto finalizado com a inteção de mostra como projeto final, a outra pasta 
+de nome Supreme-Coffe-prototico-5 se refere 5 tentativa de criar o site que eu fiz do dia 29-04-22 ate o dia 02-04-22 como nao sabia quase nada de css 
+fui aprendendo enquanto fazia o site.
