@@ -1,0 +1,18 @@
+O site possu  e designer voltado para algo "mais premiun" mas nao acho que chegou muito nesse estilo
+eu acabei encontrando bastante bugs durante o desenvolvimento do site, entao removi aquilo que nao conseguir resolver,
+em relação a site responsivo, eu acabei fazendo algo bem basico e ruim ao meu ver para telas de celulares que chegam a
+300px de largura, algumas imagens ficam muito grandes e grudadas uma nas outras quando a tela chega nessa relução mas 
+conseguir fazer algo interessante para tela muito grandes, com o almento do tamanho da fonte para melhora a visao do
+usuario no site, as imagens estao na pasta imagens assim possibilitando o site roda de forma off-line sem perde o estilo
+que coloquei nas imagens e no site no geral, a ideia inicial para a logo do site era uma imagem de uma xicara de ouro de 
+cafe mas meu computador acabou nao me ajudando, em relação ao carrosel de imagens que tem no site da lebiscuit e nao tem
+nesse, eu conseguir fazer mas ele so funcionava direito em telas em 100% de tamanho, se a tela ficasse muito grande acaba 
+aparecendo um pedaço da outra imagem e para nao entrega um site com muitos problemas decidi remover o carrosel de imagens
+
+todos os botões do menu do site dao para o index.html/# ou seja eles funcionam mas nao tem outras abas. eu ia faze-las mas
+me preocupei em estar demorando muito na produção do site, nao sei quanto tempo leva mas creio eu que uma pagina desse tipo
+nao deve levar mais de 1 dia para fazer e eu levei uns 2 dias para fazer e uns 4 dias para fazer a do 5 projeto, e de certa
+forma é uma pagina até que simples, enfim. nao tenho muito o que comenta mais sobre o site apenas pedir desculpa pela demora
+e pela qualidade do site, esse foi meu primeiro projeto de site que chega em um nivel assim, meus sites antigos sempre eram
+simples, nao tinha estilização em css mas graças ao teste para entra na empresa consegui melhora muito minhas habilidades 
+e sou muito grato por isso.
